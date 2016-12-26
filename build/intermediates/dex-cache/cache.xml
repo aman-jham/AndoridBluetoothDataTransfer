@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\User\Downloads\Samples\OneSignal-Android-SDK-master\BluetoothDataTransfer\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_1ea6030b23518596714a7e8fb45370ad4f3a8f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Downloads\Samples\OneSignal-Android-SDK-master\BluetoothDataTransfer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\User\Downloads\Samples\OneSignal-Android-SDK-master\BluetoothDataTransfer\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_d9e0c9ab24292cb444993cabbe71c229e13b71ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Downloads\Samples\OneSignal-Android-SDK-master\BluetoothDataTransfer\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\User\Downloads\Samples\OneSignal-Android-SDK-master\BluetoothDataTransfer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_2d1ed35387875b639a63232cbc93bd0b030a7d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Downloads\Samples\OneSignal-Android-SDK-master\BluetoothDataTransfer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\User\Downloads\Samples\OneSignal-Android-SDK-master\BluetoothDataTransfer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_26bdde876d85f9bfc2841813786d743a33f7669e.jar" />
+    </item>
+
+</items>
